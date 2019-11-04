@@ -1,0 +1,114 @@
+*{margin: 0px;padding: 0px;}
+.head{
+    background-image: url(../image/intro-bg.jpg);
+    height: 650px;
+    background-size: 100% 100%;
+}
+.navv{
+    color: white !important;
+    padding: 5px; 
+    font-weight: bold;  
+}
+.navv:hover{
+    color: blue !important;
+}
+.caption h1{
+    padding-top: 25%;
+    color:white;
+    font-weight: bold;
+    font-size: 55px;
+}
+.icon_circle{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    text-align: center;
+    margin: auto;
+    box-shadow: 0 0 0 10px #0078ff;
+    display: block;
+    padding-top: 5px;
+   
+}
+.icon_circle:hover{
+    
+    
+    background-color: blue;
+    color: white
+    
+}
+.card{
+    border: 12px double white !important ;
+}
+.icon_circle_2{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    text-align: center;
+    margin: auto;
+    box-shadow: 0 0 0 10px #fff;
+    display: block;
+   
+}
+{
+    cursor: pointer;
+    color: blue;
+    padding: 2px solid black;
+    border-radius: 50%;
+    padding-top: 2px;
+}
+.header_2{
+    background-image: url(../image/counters.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.overlay_head_2{
+    background-color: rgba(8, 42, 145, 0.84);
+}
+.carousel-indicators li{
+        width: 15px !important;
+    height: 6px !important;
+    
+    
+}
+
+.color{
+    
+    color: white;
+}
+.work_2{
+    background-image: url(../image/overlay-bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;   
+}
+.overlay_work
+{
+    background-color: rgba(51, 0, 235, 0.7);
+    
+}
+.contact{
+    background-image: url(../image/overlay-bg.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    
+    
+    
+    
+}
+.overlay_contact{
+    
+    background-color: rgba(51, 0, 235, 0.7);
+    background-size: 100% 100%;
+      
+    
+}
+
+.ul_listy li{
+    list-style-type: none;
+    
+    
+}
+.colo2{
+    color:blue;
+    
+    
+}
